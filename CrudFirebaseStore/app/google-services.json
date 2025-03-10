@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896796780459",
+    "project_id": "crudcourse-fa877",
+    "storage_bucket": "crudcourse-fa877.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896796780459:android:3a03f3353d98a2bc1054ee",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkR069nMzuvzpIjsPH5eHs7fzc1BkUg3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
