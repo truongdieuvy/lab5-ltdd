@@ -1,0 +1,56 @@
+<!--
+    Copyright (C) 2023 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         https://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <string name="app_name">Nhắc Tưới Cây</string>
+    <string name="remind_me">Nhắc tôi tưới %s sau…</string>
+    <string name="five_seconds">5 giây</string>
+    <string name="one_minute">1 phút</string>
+    <string name="two_minutes">2 phút</string>
+    <string name="three_minutes">3 phút</string>
+    <string name="water">Tưới</string>
+    <string name="time_to_water">Đến lúc tưới cho cây %s rồi.</string>
+
+    <!-- Tên cây -->
+    <string name="xuong_rong_da">Xương rồng đá</string>
+    <string name="ca_rot">Cà rốt</string>
+    <string name="mau_don">Mẫu đơn</string>
+    <string name="trau_ba">Trầu bà</string>
+    <string name="bang_singapore">Bàng Singapore</string>
+    <string name="dau_tay">Dâu tây</string>
+
+    <!-- Lịch tưới -->
+    <string name="hang_ngay">Hàng ngày</string>
+    <string name="hang_tuan">Hàng tuần</string>
+    <string name="hang_thang">Hàng tháng</string>
+
+    <!-- Loại cây -->
+    <string name="cay_mong_nuoc">Cây mọng nước</string>
+    <string name="re_cay">Rễ cây</string>
+    <string name="hoa">Hoa</string>
+    <string name="cay_noi_that">Cây nội thất</string>
+    <string name="la_rong_xanh_quanh_nam">Lá rộng xanh quanh năm</string>
+    <string name="trai_cay">Trái cây</string>
+
+    <!-- Mô tả -->
+    <string name="mo_phong_da">Cây mọng nước trông như đá</string>
+    <string name="re_cay_chiu_kho">Rễ cây chịu khô hạn tốt</string>
+    <string name="hoa_no_mua_xuan">Hoa nở vào mùa xuân</string>
+    <string name="day_leo_trong_nha">Dây leo trồng trong nhà</string>
+    <string name="cay_bang_canh">Cây bàng cảnh</string>
+    <string name="trai_mong_ngon">Trái mọng ngon miệng</string>
+</resources>
+
+
